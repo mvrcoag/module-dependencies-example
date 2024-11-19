@@ -1,0 +1,16 @@
+{
+  "name": "relational-entities",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx main.ts"
+  },
+  "keywords": [],
+  "author": "mvrcoag",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  }
+}
